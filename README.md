@@ -1,9 +1,54 @@
-- 👋 Hi, I’m Leonardo Alvez, i'm from Mendoza, Argentina 🌎
-- 👀 I’m interested in learning new technologies and of course, becoming a great Software Developer! 💻. Also I'm an airplane pilot and I love flying! ✈
-- 🌱 I’m currently learning REACT JS, REDUX, NODE JS, NEXT JS
-- 📫 How to reach me: you can reach me at my email alvezleonardo@hotmail.com or you can DM me at https://www.linkedin.com/in/leonardo-alvez/
+<div align="center">
+  
+# ¡Hola! Soy Leonardo Alvez 👋 👨‍💻 ✈️
 
-<!---
-leo9514/leo9514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Desarrollador de Software | Piloto de Aviones | Apasionado por la tecnología**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alvez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvezleonardomdz@gmail.com)
+
+</div>
+
+<br/>
+
+Soy de Mendoza, Argentina. Me apasiona resolver problemas complejos, aprender nuevas tecnologías y construir aplicaciones web modernas y escalables. Actualmente busco integrarme a un equipo de trabajo para aportar valor, seguir formándome y crecer como profesional de la industria. ¡Ah, y cuando no estoy codeando, probablemente me encuentres volando! 🛩️
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,redux,tailwind,supabase,git,github,vscode" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+*   🚗 **[Concesionaria MZA](https://github.com/leoalvezmdz/concesionaria-mza)**  
+    Plataforma SaaS integral Full-Stack (Next.js 16, Supabase, TailwindCSS). Incluye panel de administración, gestión de inventarios, roles de usuario, integraciones de pago con MercadoPago y soporte PWA.
+*   🩺 **[DoctorApp - Medical Tracker](https://github.com/leoalvezmdz/doctorapp)**  
+    Plataforma web de alta gama "Clinical Sanctuary" para profesionales de la salud (Next.js 16, Supabase, Drizzle ORM, Clerk). Permite gestionar pacientes, protocolos médicos y turnos con un diseño UI/UX premium.
+*   🛒 **[Shopping Cart App](https://github.com/leoalvezmdz/shopping-cart-app-react)**  
+    Simulador de E-commerce con gestión global de estado y carrito de compras desarrollado en React.
+*   ⛅ **[React Weather App](https://github.com/leoalvezmdz/react-weather-app)**  
+    Aplicación interactiva del clima que consume APIs externas en tiempo real.
+*   🎬 **[Movie Search App](https://github.com/leoalvezmdz/moviesearchapp-react)**  
+    Buscador rápido de películas implementando buenas prácticas de UI/UX y consumo de TheMovieDB API.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoalvezmdz&theme=tokyonight" alt="Estadísticas de Leo" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoalvezmdz&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de Leo" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <i>"El código es como volar: requiere precisión, atención al detalle y siempre te lleva a nuevos horizontes."</i> ☁️
+</div>
