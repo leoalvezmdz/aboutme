@@ -29,8 +29,10 @@ Soy de Mendoza, Argentina. Me apasiona resolver problemas complejos, aprender nu
 
 *   🚗 **[Concesionaria MZA](https://github.com/leoalvezmdz/concesionaria-mza)**  
     Plataforma SaaS integral Full-Stack (Next.js 16, Supabase, TailwindCSS). Incluye panel de administración, gestión de inventarios, roles de usuario, integraciones de pago con MercadoPago y soporte PWA.
-*   🩺 **[DoctorApp - Medical Tracker](https://github.com/leoalvezmdz/doctorapp)**  
+*   🩺 **[DoctorApp - Medical Tracker](https://github.com/leoalvezmdz/medical-tracker)**  
     Plataforma web de alta gama "Clinical Sanctuary" para profesionales de la salud (Next.js 16, Supabase, Drizzle ORM, Clerk). Permite gestionar pacientes, protocolos médicos y turnos con un diseño UI/UX premium.
+*   🗺️ **[Google Maps Scraper](https://github.com/leoalvezmdz/scraper)**  
+    Scraper automatizado construido con Node.js y Playwright para la extracción masiva de datos comerciales desde Google Maps. Incluye simulación de comportamiento humano y exportación a CSV.
 *   🛒 **[Shopping Cart App](https://github.com/leoalvezmdz/shopping-cart-app-react)**  
     Simulador de E-commerce con gestión global de estado y carrito de compras desarrollado en React.
 *   ⛅ **[React Weather App](https://github.com/leoalvezmdz/react-weather-app)**  
@@ -53,9 +55,8 @@ Soy de Mendoza, Argentina. Me apasiona resolver problemas complejos, aprender nu
   <i>"El código es como volar: requiere precisión, atención al detalle y siempre te lleva a nuevos horizontes."</i> ☁️
 </div>
 
----
----
-
+--
+--
 <div align="center">
   
 # Hi! I'm Leonardo Alvez 👋 👨‍💻 ✈️
@@ -87,8 +88,10 @@ I'm based in Mendoza, Argentina. I'm passionate about solving complex problems, 
 
 *   🚗 **[Concesionaria MZA](https://github.com/leoalvezmdz/concesionaria-mza)**  
     Full-Stack SaaS platform (Next.js 16, Supabase, TailwindCSS). Features include an admin dashboard, inventory management, user roles, payment integration via MercadoPago, and PWA support.
-*   🩺 **[DoctorApp - Medical Tracker](https://github.com/leoalvezmdz/doctorapp)**  
+*   🩺 **[DoctorApp - Medical Tracker](https://github.com/leoalvezmdz/medical-tracker)**  
     High-end "Clinical Sanctuary" web platform designed for healthcare professionals (Next.js 16, Supabase, Drizzle ORM, Clerk). Enables management of patients, medical protocols, and smart scheduling with a premium UI/UX design.
+*   🗺️ **[Google Maps Scraper](https://github.com/leoalvezmdz/scraper)**  
+    Automated web scraper built with Node.js and Playwright for massive commercial data extraction from Google Maps. Includes human behavior simulation and CSV export capabilities.
 *   🛒 **[Shopping Cart App](https://github.com/leoalvezmdz/shopping-cart-app-react)**  
     E-commerce simulator with global state management and a fully functional shopping cart built with React.
 *   ⛅ **[React Weather App](https://github.com/leoalvezmdz/react-weather-app)**  
@@ -110,4 +113,3 @@ I'm based in Mendoza, Argentina. I'm passionate about solving complex problems, 
 <div align="center">
   <i>"Coding is like flying: it requires precision, attention to detail, and it always takes you to new horizons."</i> ☁️
 </div>
-
